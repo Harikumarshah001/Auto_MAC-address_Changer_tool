@@ -8,7 +8,7 @@ Features
    -flexible
    -portable
    
-   Installation
+   Installation:
 
     Just, Clone this repository -
 
@@ -21,6 +21,18 @@ $ cd Auto_MAC-address_Changer_tool
 $ chmod +x macchanger.py (to make file executable)
 
 $ python macchanger.py 
+
+     Auto_MAC-address_Changer_tool is installed........
+     
+=======================================================================     
+
+For windows users:
+
+install python latest version
+
+download file and run from command prompt or manually
+
+================================================================================
 
      Auto_MAC-address_Changer_tool is installed........
     
