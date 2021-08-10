@@ -17,12 +17,15 @@ $ git clone https://github.com/Harikumarshah001/Auto_MAC-address_Changer_tool.gi
     Change to cloned directory and run
     
 $ cd Auto_MAC-address_Changer_tool
+
 $ chmod +x macchanger.py (to make file executable)
+
 $ python macchanger.py 
 
-    On first launch, It'll install the dependencies and that's it. Auto_MAC-address_Changer_tool is installed........
+     Auto_MAC-address_Changer_tool is installed........
     
     enjoy the tool.......
+    
     
 Warning!
 
@@ -34,8 +37,11 @@ Dependencies
 Auto_MAC-address_Changer_tool requires following programs to run properly -
 
     python2/python3
+    
     wget
+    
     curl
+    
     git
     
     
@@ -49,6 +55,7 @@ Auto_MAC-address_Changer_tool requires following programs to run properly -
     edureka
     bisworaj poudel
     amar shah
+    
     
     Find Me on :
 youtube: https://www.youtube.com/channel/UCOYfDm6F69HZ5e5q3QIPbtw
